@@ -3787,6 +3787,10 @@ loader-utils@^1.0.2, loader-utils@^1.1.0:
     emojis-list "^2.0.0"
     json5 "^1.0.1"
 
+loadjs@^3.6.1:
+  version "3.6.1"
+  resolved "http://r.cnpmjs.org/loadjs/download/loadjs-3.6.1.tgz#1e756ccd4f4c5ed4988085b330e1b4ad9b6a8340"
+
 locate-path@^2.0.0:
   version "2.0.0"
   resolved "http://r.cnpmjs.org/locate-path/download/locate-path-2.0.0.tgz#2b568b265eec944c6d9c0de9c3dbbbca0354cd8e"
@@ -5937,6 +5941,10 @@ svgo@^1.0.0:
     stable "^0.1.8"
     unquote "~1.1.1"
     util.promisify "~1.0.0"
+
+systemjs@^5.0.0:
+  version "5.0.0"
+  resolved "http://r.cnpmjs.org/systemjs/download/systemjs-5.0.0.tgz#8d8fb57c0ad32d73e34b7a7c0c63bd39b318008f"
 
 tapable@^1.0.0, tapable@^1.1.0:
   version "1.1.3"
